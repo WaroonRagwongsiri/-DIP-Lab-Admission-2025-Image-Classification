@@ -1,0 +1,12 @@
+# Gamma Correction
+# Some Augment
+	# Resize to Effnet (size 224*224)
+	# Salt Peppers
+	# Translate XY
+	# Affine
+	# Color Jitter
+	# RandomHorizonFlip
+	# RandomVerticalFlip
+	# Padding (reflect symetric)
+	# Gaussian Blur
+# Custom Transform
