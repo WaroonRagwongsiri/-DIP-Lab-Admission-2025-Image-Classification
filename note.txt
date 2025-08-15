@@ -1,5 +1,7 @@
 # Gamma Correction
 # Some Augment
+	# Cutmix
+	# Padding (reflect)
 	# Resize to Effnet (size 224*224)
 	# Salt Peppers
 	# Translate XY
