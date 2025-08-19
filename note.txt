@@ -12,3 +12,4 @@
 	# Padding (reflect symetric)
 	# Gaussian Blur
 # Custom Transform
+# Image histogram map
